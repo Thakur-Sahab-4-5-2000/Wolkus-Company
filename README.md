@@ -26,9 +26,13 @@ Frontend Link netlify (https://shubham1804592.netlify.app/)
 
 ## The commands for running a project
 ```shell
+    cd .\netflix-api\
     npm i
     npm start
-  }
+    
+    cd .\netflix-ui\ 
+    npm i
+    npm start
    ```
    
    ## Dependencies Used At Backend Side
