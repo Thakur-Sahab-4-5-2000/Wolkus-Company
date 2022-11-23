@@ -1,4 +1,9 @@
 # Wolkus Technology Solutions Private Limited (Fasal) Assignment
+
+## Links
+Backend Link Heroku (https://shubham1804592.herokuapp.com/)
+Frontend Link netlify (https://shubham1804592.netlify.app/)
+
 ## Images
 ![image](https://user-images.githubusercontent.com/56603941/203507324-9a416c5e-166b-4bff-b111-a4e77dbabf39.png)
 
