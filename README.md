@@ -5,7 +5,7 @@ Backend Link Heroku (https://shubham1804592.herokuapp.com/)
 <br/>
 Frontend Link netlify (https://shubham1804592.netlify.app/)
 
-## Dummmy Email And Password 
+## Dummy Email And Password 
 -- email:abc123@gmail.com
 <br/>
 -- password:abc123@gmail.com
